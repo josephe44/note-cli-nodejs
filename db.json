@@ -1,3 +1,20 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "task",
+        " call"
+      ],
+      "id": 1690297799696,
+      "content": "call mum by 6pm"
+    },
+    {
+      "tags": [
+        "task",
+        " work"
+      ],
+      "id": 1690297831284,
+      "content": "submit task before 5pm"
+    }
+  ]
 }
